@@ -1,11 +1,12 @@
 ---
-title: "Warmup R Markdown Reprot: Misquito Blood Host in Salt Lake City, Utah"
+title: "Warm-up mini-Report: Mosquito Blood Hosts in \n Salt Lake City, Utah"
 author: "Lizzy Kocherhans"
 date: "`r Sys.Date()`"
-output: 
+output:
   github_document:
-    toc:true
-  ---
+    toc: true
+---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
